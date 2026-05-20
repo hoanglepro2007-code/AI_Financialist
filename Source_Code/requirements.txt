@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+python-Docx
+PyPDF2
+logging
+matplotlib
+scikit-learn
+streamlit
+joblib
+plotly
+tensorflow
+supabase
